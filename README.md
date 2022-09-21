@@ -1,14 +1,4 @@
-[![Python exercise](https://github.com/EqualExperts/data-engineering-exercise-python/actions/workflows/python-exercise.yml/badge.svg)](https://github.com/EqualExperts/data-studio-exercise-python-sql/actions/workflows/python-exercise.yml)
-# Data Engineering Challenge
-Thank you for taking the time to participate in this challenge. Please read carefully all the instructions below and don’t hesitate to contact us if you have any queries.
 
-As a Data Engineer, you should NOT find this exercise to be particularly difficult. 
-We are expecting a simple solution that addresses just what is asked, and you should take no more than 90 minutes.
-
-The exercise runs inside **docker**, so apart from that you don't need any setup.
-
-(if you've started the exercise in the previous version, feel free to continue the challenge, here is the [link](https://github.com/EqualExperts/data-engineering-exercise-python/tree/v0.1.0))
-# Vote Outliers 
 
 ## Task
 
